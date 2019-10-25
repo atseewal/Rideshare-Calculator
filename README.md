@@ -1,2 +1,2 @@
-# Rideshare-Calculator
+# Rideshare Calculator
 Simple Shiny Rideshare Calculator
